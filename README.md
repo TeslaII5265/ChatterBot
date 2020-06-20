@@ -12,3 +12,6 @@ if writing your own commands structure the JSON like this:
 [{"response":"hello there!","trigger":"hi"},
 {"response":"see ya :)","trigger":"bye"},
 {"response":"response","trigger":"trigger"}]
+
+Available on Sketchware:
+http://sketchware.io/import.jsp?id=GoZj
